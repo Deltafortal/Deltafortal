@@ -1,11 +1,13 @@
 <hr>
 <img align="left" src="https://i.pinimg.com/originals/f6/b2/1e/f6b21efcb33117dcc8b94dcb97c14db1.png">
 <h1 align="center">Aldo Lucchetta</h1>
-<p> Hi 👋, i am a passionate Jr Full Stack Web Developer from Italy, I am curious and eager to learn</p>
+<p> Hi 👋, I am a passionate Jr Full Stack Web Developer from Italy, I'm curious and eager to learn</p>
 
-- 🌱 Currently working on my **Personal Portfolio**
+🌱 Currently working on my **Personal Portfolio**
 
-- 📫 Contact me here -> **aldolucchetta21@gmail.com**
+📫 Contact me here -> **aldolucchetta21@gmail.com**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +21,4 @@
 
 <h3> ⚡ Cooding Journey ⚡ </h3>
 <h5> The start of my journey </h5>
-<p> I want to write my whole cooding journey in this little section, i can't wait to see what will happen in the future, let's talk about the journey now. I've finished my Full Stack Web Developer course from Boolean, i have learned many many things and i am really happy to see all the project i am ready to make. I know this is only the beginning but i am ready to learn much much more!</p>
+<p> I want to write my whole cooding journey in this little section and I can't wait to see what will happen in the future. Let's talk about the journey now: I've finished my Full Stack Web Developer course from Boolean, I have learned many many things and I am really happy to see all the project I am ready to make. I know this is only the beginning but I am ready to learn much much more!</p>
