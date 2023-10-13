@@ -1,9 +1,9 @@
 <h1 align="center">Aldo Lucchetta</h1>
-<p> Hi 👋, i am a passionate Jr Full Stack Web Developer from Italy</p>
+<p> Hi 👋, i am a passionate Jr Full Stack Web Developer from Italy, I am curious and eager to learn</p>
 
-- 🌱 I’m currently improving my **Web Developer skills**
+- 🌱 I’m currently working on my **Personal Portfolio**
 
-- 📫 How to reach me **aldolucchetta21@gmail.com**
+- 📫 Contact me here -> **aldolucchetta21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
