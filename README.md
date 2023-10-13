@@ -1,5 +1,5 @@
-<img src="https://i.pinimg.com/originals/f6/b2/1e/f6b21efcb33117dcc8b94dcb97c14db1.png">
-<h1 align="center">Aldo Lucchetta</h1>
+<img align="left" src="https://i.pinimg.com/originals/f6/b2/1e/f6b21efcb33117dcc8b94dcb97c14db1.png">
+<h1 align="right">Aldo Lucchetta</h1>
 <p> Hi 👋, i am a passionate Jr Full Stack Web Developer from Italy, I am curious and eager to learn</p>
 
 - 🌱 Currently working on my **Personal Portfolio**
