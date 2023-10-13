@@ -20,6 +20,6 @@
 
 <hr>
 
-<h3"> ⚡ Cooding Journey ⚡ </h3>
+<h3> ⚡ Cooding Journey ⚡ </h3>
 <h5> The start of my journey </h5>
 <p> I want to write my whole cooding journey in this little section and I can't wait to see what will happen in the future. Let's talk about the journey now: I've finished my Full Stack Web Developer course from Boolean, I have learned many many things and I am really happy to see all the project I am ready to make. I know this is only the beginning but I am ready to learn much much more!</p>
