@@ -1,6 +1,5 @@
-<h1 align="center">I'm Aldo Lucchetta</h1>
-<h3 align="center">A passionate Jr Full Stack Developer from Italy</h3>
-<p> Hi 👋, i am a Jr Full Stack Web Developer </p>
+<h1 align="center">Aldo Lucchetta</h1>
+<p> Hi 👋, i am a passionate Jr Full Stack Web Developer from Italy</p>
 
 - 🌱 I’m currently improving my **Web Developer skills**
 
