@@ -1,4 +1,4 @@
-<img src="https://www.pinterest.it/pin/896357132068712220/">
+<img src="https://i.pinimg.com/originals/f6/b2/1e/f6b21efcb33117dcc8b94dcb97c14db1.png">
 <h1 align="center">Aldo Lucchetta</h1>
 <p> Hi 👋, i am a passionate Jr Full Stack Web Developer from Italy, I am curious and eager to learn</p>
 
