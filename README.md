@@ -9,7 +9,7 @@
 
 <hr>
 
-<h5>Connect with me: <h5>
+<h3>Connect with me: <h3>
 <p>
 <a href="https://www.linkedin.com/in/aldo-lucchetta-23b560292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo lucchetta" height="30" width="30" /></a>
 </p>
