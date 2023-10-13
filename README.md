@@ -22,4 +22,4 @@
 
 <h3> ⚡ Coding Journey ⚡ </h3>
 <h5> The start of my journey </h5>
-<p> I want to write my whole cooding journey in this little section and I can't wait to see what will happen in the future. Let's talk about the journey now: I've finished my Full Stack Web Developer course from Boolean, I have learned many many things and I am really happy to see all the project I am ready to make. I know this is only the beginning but I am ready to learn much much more!</p>
+<p> I will record my whole cooding journey in this little section and I can't wait to see what will happen in the future. So, let's talk about the journey: I've just finished my Full Stack Web Developer course with Boolean and I've learned a lot of new things. For this reason I'm very excited to see all the project that I will be ready to create. I know that this is only the beginning but I'm willing to learn much much more!</p>
